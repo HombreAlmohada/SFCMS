@@ -1,6 +1,6 @@
 # SFCMS
 
-*SFCMS* _(Nombre provisional)_ es un CMS hecho con Symfony dirigido a cumplir con los requisitos de la empresa Flat 101.
+*SFCMS* _(Nombre provisional)_ es un CMS hecho con Symfony.
 
 Requisitos que debe cumplir:
 - Seguridad: Login de usuarios, roles, etc
